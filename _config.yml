@@ -1,0 +1,120 @@
+typography_spectrum: 0.18264972744509578
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.15895507344976068
+  lightness: 0.9332743468694389
+  saturation: 0.9615956177003682
+  rhythmicContrast: 0.7898690078873187
+  brandColors:
+    - '#AD158A'
+    - '#FFFFFF'
+    - '#1FF0E4'
+    - '#E5FF01'
+    - '#696969'
+layout_spectrum: 0.07572731748223305
+author:
+  name: Annie Fung
+  email: anniefung.re@gmail.com
+name: Annie Fung Real Estate
+url: 'http://anniefungrealestate.com'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Bio
+    id: 5a96640a-1b0c-49ba-bf47-cd80d6236e5e
+    type: content
+  - name: Living in the Bay Area
+    id: 7cb52688-719d-4fde-a6b7-0139f84c81ad
+    type: content
+  - name: Selling a Home
+    id: eb5d1576-3787-4c43-b05a-5c263c39d139
+    type: content
+  - name: Buying a Home
+    id: e2589836-dfa3-47d5-9d93-522239316073
+    type: content
+title: ' '
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgyECIQbLBJQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgyECIQbLBJQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgyECIQbLBJQ%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Annie Fung
+          url: 'https://www.youtube.com/channel/UCDhc5n0W9Y3eNtNuqzFEHiw'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      keywords:
+        - imovie
+      description: This video is used for my website.
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=gyECIQbLBJQ&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=gyECIQbLBJQ&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=gyECIQbLBJQ&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=gyECIQbLBJQ&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=gyECIQbLBJQ&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=gyECIQbLBJQ'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=gyECIQbLBJQ
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=gyECIQbLBJQ
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=gyECIQbLBJQ'
+      title: CA Opening
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: ''
+purpose:
+  - type: contact
+    url: 'mailto:anniefung.re@gmail.com'
+    label: Contact Me
+  - type: contact
+    url: 'mailto:afung@kw.com'
+    label: E-mail Me
+analytics:
+  google: UA-109292420-1
+github: true
